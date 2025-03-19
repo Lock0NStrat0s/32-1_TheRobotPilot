@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("32_TheRobotPilot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4611555145ef8955f75e7a042cf7a1c0a0a989e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e28125469fb55c2c1826353b799ed5b8571a572")]
 [assembly: System.Reflection.AssemblyProductAttribute("32_TheRobotPilot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("32_TheRobotPilot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,40 +4,71 @@ namespace _32_TheRobotPilot;
 
 internal class Program
 {
+    static int round = 1;
     static void Main(string[] args)
     {
-        int round = 1;
         int mantiLocation = GetMantiLocation();
         Manticore manti = new();
         City city = new();
         bool runAgain = true;
+
         do
         {
-            runAgain = DisplayRound(round, mantiLocation, manti, city);
+            runAgain = DisplayRound(mantiLocation, manti, city);
         } while (runAgain);
+
+        bool win = city.CurrentHP > 0;
+        WinOrLoseMessage(win);
     }
 
-    private static bool DisplayRound(int round, int mantiLocation, Manticore manti, City city)
+    private static void WinOrLoseMessage(bool win)
     {
-        int range = GetLocationToTarget();
-        int cannonDmg = CalculateCannonDmg(round);
+        if (win)
+        {
+            Console.WriteLine("Congrats! You beat the manticore and saved the city!");
+        }
+        else
+        {
+            Console.WriteLine("The manticore destroyed the city.");
+        }
+    }
 
+    private static bool DisplayRound(int mantiLocation, Manticore manti, City city)
+    {
         if (manti.CurrentHP <= 0 || city.CurrentHP <= 0)
         {
             return false;
         }
 
+        int cannonDmg = CalculateCannonDmg();
+
         Console.Clear();
+        Console.WriteLine("--------------------------------------------");
         Console.WriteLine($"STATUS: Round: {round}\tCity: {city.CurrentHP}/{city.TotalHP}\tManticore: {manti.CurrentHP}/{manti.TotalHP}");
         Console.WriteLine($"The cannon is expected to deal {cannonDmg} damage this round.");
+        int range = GetLocationToTarget();
 
         if (HitTarget(range, mantiLocation))
-            CalculateNewHealth(city, manti, round, cannonDmg);
+            CalculateNewHealthOnHit(city, manti, cannonDmg);
+        else
+            CalculateNewHealthNoHit(city);
+
+        Console.WriteLine("--------------------------------------------");
+        Console.WriteLine("\nPress any key to cotinue: ");
+        Console.ReadKey();
+        round += 1;
+        return true;
     }
 
-    private static void CalculateNewHealth(City city, Manticore manti, int round, int cannonDmg)
+    private static void CalculateNewHealthNoHit(City city)
     {
-        throw new NotImplementedException();
+        city.CurrentHP--;
+    }
+
+    private static void CalculateNewHealthOnHit(City city, Manticore manti, int cannonDmg)
+    {
+        manti.CurrentHP -= cannonDmg;
+        city.CurrentHP--;
     }
 
     private static int GetMantiLocation()
@@ -58,7 +89,7 @@ internal class Program
         return range;
     }
 
-    private static int CalculateCannonDmg(int round)
+    private static int CalculateCannonDmg()
     {
         // cannon dmg based on round number
         if (round % 3 == 0 && round % 5 == 0)

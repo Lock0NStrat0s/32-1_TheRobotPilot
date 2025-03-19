@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{7784342F-90C4-421B-B374-3CD42DE26ADA}|32_TheRobotPilot\\32_TheRobotPilot.csproj|solutionrelative:32_therobotpilot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7784342F-90C4-421B-B374-3CD42DE26ADA}|32_TheRobotPilot\\32_TheRobotPilot.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\rb_whitaker\\2025\\32_challenges\\32_therobotpilot_app\\32_therobotpilot\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7784342F-90C4-421B-B374-3CD42DE26ADA}|32_TheRobotPilot\\32_TheRobotPilot.csproj|solutionrelative:32_therobotpilot\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7784342F-90C4-421B-B374-3CD42DE26ADA}|32_TheRobotPilot\\32_TheRobotPilot.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\rb_whitaker\\2025\\32_challenges\\32_therobotpilot_app\\32_therobotpilot\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7784342F-90C4-421B-B374-3CD42DE26ADA}|32_TheRobotPilot\\32_TheRobotPilot.csproj|solutionrelative:32_therobotpilot\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,9 +34,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\32_Challenges\\32_TheRobotPilot_App\\32_TheRobotPilot\\Program.cs",
               "RelativeDocumentMoniker": "32_TheRobotPilot\\Program.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\32_Challenges\\32_TheRobotPilot_App\\32_TheRobotPilot\\Program.cs*",
-              "RelativeToolTip": "32_TheRobotPilot\\Program.cs*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwEEAAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\32_Challenges\\32_TheRobotPilot_App\\32_TheRobotPilot\\Program.cs",
+              "RelativeToolTip": "32_TheRobotPilot\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T10:40:22.505Z",
               "EditorCaption": ""
@@ -50,12 +50,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\32_Challenges\\32_TheRobotPilot_App\\32_TheRobotPilot\\GameState.cs",
-              "RelativeDocumentMoniker": "32_TheRobotPilot\\GameState.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\32_Challenges\\32_TheRobotPilot_App\\32_TheRobotPilot\\GameState.cs",
-              "RelativeToolTip": "32_TheRobotPilot\\GameState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\32_Challenges\\32_TheRobotPilot_App\\32_TheRobotPilot\\GameObject.cs",
+              "RelativeDocumentMoniker": "32_TheRobotPilot\\GameObject.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\32_Challenges\\32_TheRobotPilot_App\\32_TheRobotPilot\\GameObject.cs",
+              "RelativeToolTip": "32_TheRobotPilot\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T11:24:24.813Z",
               "EditorCaption": ""
