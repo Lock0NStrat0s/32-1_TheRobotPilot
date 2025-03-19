@@ -1,0 +1,15 @@
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\bin\Debug\net9.0\32_TheRobotPilot.exe
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\bin\Debug\net9.0\32_TheRobotPilot.deps.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\bin\Debug\net9.0\32_TheRobotPilot.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\bin\Debug\net9.0\32_TheRobotPilot.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\bin\Debug\net9.0\32_TheRobotPilot.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\obj\Debug\net9.0\32_TheRobotPilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\obj\Debug\net9.0\32_TheRobotPilot.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\obj\Debug\net9.0\32_TheRobotPilot.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\obj\Debug\net9.0\32_TheRobotPilot.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\obj\Debug\net9.0\32_TheRobotPilot.sourcelink.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\obj\Debug\net9.0\32_TheRobotPilot.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\obj\Debug\net9.0\refint\32_TheRobotPilot.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\obj\Debug\net9.0\32_TheRobotPilot.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\obj\Debug\net9.0\32_TheRobotPilot.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\32_Challenges\32_TheRobotPilot_App\32_TheRobotPilot\obj\Debug\net9.0\ref\32_TheRobotPilot.dll
